@@ -1,0 +1,15 @@
+Chức năng chính:
++Thêm công việc
++Xóa công việc
++Hiển thị danh sách công việc
++Thời gian cho việc
+
+Clip demo
+https://github.com/lamhoangsdsv/todolist_project_nhom2.git
+comment
+
+Hoàng Văn Lãm 23%
+Trần Quang Huy 23%
+Hoàng Thị Liên 18%
+Đào Thị Quỳnh Mai 18%
+Đinh Thị Huyền 18%
